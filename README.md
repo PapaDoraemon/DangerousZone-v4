@@ -1,2 +1,2 @@
-# DangerousZone-v4
-85 sempel malware lagi nih bacot.... eksekusi aja yah
+#### All responsibilities are at your own risk.
+#### Please use it only for research purposes.
